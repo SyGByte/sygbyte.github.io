@@ -4,7 +4,7 @@
 ### Want to Be (Physicist and Philosopher)
 
 
-# Acquition of Conscious Bytes of Universe through SyGByte
+# Acquisition of Conscious Bytes of Universe through SyGByte
 
 
 ![Image](SyGByte-repo/Images/PosterGit.png)
