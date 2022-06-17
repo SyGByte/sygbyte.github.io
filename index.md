@@ -1,13 +1,13 @@
 ## Welcome to My Page :: SyGByte
 
 
-### Want to Be (Physicist and Philosopher)
+### Aspiring Physicist
 
 
 # Acquisition of Conscious Bytes of Universe through SyGByte
 
 
-![Image](SyGByte-repo/Images/PosterGit.png)
+! Website Under Construction !
 
 ### Contact me
 sunny20@iiserb.ac.in
