@@ -1,10 +1,10 @@
-## Welcome to My Page :: SyGByte
+# Welcome to Sunny's Website
+
+## ! Website Under Construction !
 
 
 ### Aspiring Physicist
 
-
-# Acquisition of Conscious Bytes of Universe through SyGByte
 
 
 ! Website Under Construction !
